@@ -8,7 +8,7 @@ namespace Team_Project
 {
     class Person
     {
-        public string name { get; set; }
-        public string address { get; set; }
+        public string Firstname { get; set; }
+        public string LastName { get; set; }
     }
 }
