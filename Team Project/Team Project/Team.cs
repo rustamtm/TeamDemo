@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Team_Project
 {
-    class Person
+    class Team
     {
-        public string Firstname { get; set; }
-        public string LastName { get; set; }
-        public string Address { get; set; }
-
     }
 }
